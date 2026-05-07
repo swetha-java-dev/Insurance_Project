@@ -1,7 +1,7 @@
 These are the new changes getting comitted form central repo
 
-<<<<<<< HEAD
 
+------------------------------------------
 file 1
 
 hello World
@@ -12,4 +12,3 @@ hello Gdmrng
 file 1
 
 hi
->>>>>>> d4eba419264d395e9dc553766de618d227835fc7
