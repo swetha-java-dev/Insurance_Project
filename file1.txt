@@ -1,3 +1,5 @@
+These are the new changes getting comitted form central repo
+
 <<<<<<< HEAD
 
 file 1
