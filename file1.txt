@@ -1,6 +1,13 @@
+<<<<<<< HEAD
 
 file 1
 
 hello World
  int i=10;
  int j=20;
+=======
+hello Gdmrng
+file 1
+
+hi
+>>>>>>> d4eba419264d395e9dc553766de618d227835fc7
